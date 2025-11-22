@@ -9,7 +9,7 @@ from PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout,
 from PyQt5.QtCore import Qt, QDate
 from PyQt5.QtGui import QFont, QPixmap, QIcon, QPalette, QColor
 
-# тест
+
 class DatabaseManager:
     def __init__(self):
         self.connection = None
